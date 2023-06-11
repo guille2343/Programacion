@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/modelo/Producto.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/modelo/Empresa.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/persistencia/invProducto.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/modelo/Factura.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/persistencia/ArchivoDeObjetos.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/modelo/DetalleFactura.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/persistencia/ArchivoTexto.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/persistencia/invCliente.java</file>
+            <file>file:/C:/Users/German%20Ballestero/Desktop/proyecto/Inventario/src/logica/LogicaInventario.java</file>
+        </group>
+    </open-files>
+</project-private>
